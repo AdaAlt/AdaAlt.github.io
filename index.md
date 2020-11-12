@@ -6,7 +6,9 @@
   <img height="200px" class="center-block" src="cutpropic.jpg">    
 <div style="display: inline-block;">
   Postdoctoral Researcher
-Ecole normale supérieure (Laboratoire de Physique)\
+
+Ecole normale supérieure (Laboratoire de Physique)
+
 Paris 05, Île-de-France
 </div>
 </div>
