@@ -2,16 +2,15 @@
 
 # Ada Altieri
 
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-  <img height="200px" class="center-block" src="cutpropic.jpg">    
-<div style="display: inline-block;">
-  Postdoctoral Researcher
-
-Ecole normale supérieure (Laboratoire de Physique)
-
-Paris 05, Île-de-France
+<div class="row">
+  <div class="column">
+      <img height="200px" class="center-block" src="cutpropic.jpg">
+  </div>
+  <div class="column">
+    Postdoctoral Researcher <br> Ecole normale supérieure (Laboratoire de Physique) <br> Paris 05, Île-de-France
+  </div>
 </div>
-</div>
+
 ## Curriculum
 
  Ecole normale supérieure
